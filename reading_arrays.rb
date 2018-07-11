@@ -25,9 +25,9 @@ def first_student_by_method
 end
 
 def last_student_by_method
-  # Write a solution that returns the first student using the built in .last method
+  puts student_name.last
 end
 
 def first_second_and_third_students
-  # Write a solution that returns the first, second and third students
+  puts student_name[0..2..3]
 end
