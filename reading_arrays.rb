@@ -8,12 +8,12 @@ student_names = [
 ]
 
 def first_student_by_index
-  puts student_names[0]
+   student_names[0]
 end 
   # Write a solution that returns the first student in the array student_names
 
 def fourth_student_by_index
-  puts student_names[4]
+   student_names[4]
 end
 
 def last_student_by_index
