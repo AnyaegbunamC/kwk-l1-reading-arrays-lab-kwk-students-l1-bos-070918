@@ -17,17 +17,17 @@ def fourth_student_by_index
 end
 
 def last_student_by_index
- puts student_name[5]
+    student_name[5]
 end
 
 def first_student_by_method
-   puts student_name.first
+    student_name.first
 end
 
 def last_student_by_method
-  puts student_name.last
+  student_name.last
 end
 
 def first_second_and_third_students
-  puts student_name[0..2..3]
+  student_name[0..2..3]
 end
